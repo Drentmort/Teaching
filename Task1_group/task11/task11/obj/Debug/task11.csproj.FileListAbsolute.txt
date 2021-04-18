@@ -1,0 +1,10 @@
+C:\Users\Anton\source\repos\task11\task11\bin\Debug\task11.exe.config
+C:\Users\Anton\source\repos\task11\task11\bin\Debug\task11.exe
+C:\Users\Anton\source\repos\task11\task11\bin\Debug\task11.pdb
+C:\Users\Anton\source\repos\task11\task11\obj\Debug\task11.csprojAssemblyReference.cache
+C:\Users\Anton\source\repos\task11\task11\obj\Debug\task11.Properties.Resources.resources
+C:\Users\Anton\source\repos\task11\task11\obj\Debug\task11.csproj.GenerateResource.cache
+C:\Users\Anton\source\repos\task11\task11\obj\Debug\task11.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\task11\task11\obj\Debug\task11.exe
+C:\Users\Anton\source\repos\task11\task11\obj\Debug\task11.pdb
+C:\Users\Anton\source\repos\task11\task11\obj\Debug\task11.Form1.resources
